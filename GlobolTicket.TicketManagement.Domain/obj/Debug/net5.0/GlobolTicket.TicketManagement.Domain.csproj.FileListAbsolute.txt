@@ -1,0 +1,12 @@
+E:\VisualProject\DotNetCore\GlobolTicket.TicketManagement\GlobolTicket.TicketManagement.Domain\bin\Debug\net5.0\GlobolTicket.TicketManagement.Domain.deps.json
+E:\VisualProject\DotNetCore\GlobolTicket.TicketManagement\GlobolTicket.TicketManagement.Domain\bin\Debug\net5.0\GlobolTicket.TicketManagement.Domain.dll
+E:\VisualProject\DotNetCore\GlobolTicket.TicketManagement\GlobolTicket.TicketManagement.Domain\bin\Debug\net5.0\ref\GlobolTicket.TicketManagement.Domain.dll
+E:\VisualProject\DotNetCore\GlobolTicket.TicketManagement\GlobolTicket.TicketManagement.Domain\bin\Debug\net5.0\GlobolTicket.TicketManagement.Domain.pdb
+E:\VisualProject\DotNetCore\GlobolTicket.TicketManagement\GlobolTicket.TicketManagement.Domain\obj\Debug\net5.0\GlobolTicket.TicketManagement.Domain.csproj.AssemblyReference.cache
+E:\VisualProject\DotNetCore\GlobolTicket.TicketManagement\GlobolTicket.TicketManagement.Domain\obj\Debug\net5.0\GlobolTicket.TicketManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualProject\DotNetCore\GlobolTicket.TicketManagement\GlobolTicket.TicketManagement.Domain\obj\Debug\net5.0\GlobolTicket.TicketManagement.Domain.AssemblyInfoInputs.cache
+E:\VisualProject\DotNetCore\GlobolTicket.TicketManagement\GlobolTicket.TicketManagement.Domain\obj\Debug\net5.0\GlobolTicket.TicketManagement.Domain.AssemblyInfo.cs
+E:\VisualProject\DotNetCore\GlobolTicket.TicketManagement\GlobolTicket.TicketManagement.Domain\obj\Debug\net5.0\GlobolTicket.TicketManagement.Domain.csproj.CoreCompileInputs.cache
+E:\VisualProject\DotNetCore\GlobolTicket.TicketManagement\GlobolTicket.TicketManagement.Domain\obj\Debug\net5.0\GlobolTicket.TicketManagement.Domain.dll
+E:\VisualProject\DotNetCore\GlobolTicket.TicketManagement\GlobolTicket.TicketManagement.Domain\obj\Debug\net5.0\ref\GlobolTicket.TicketManagement.Domain.dll
+E:\VisualProject\DotNetCore\GlobolTicket.TicketManagement\GlobolTicket.TicketManagement.Domain\obj\Debug\net5.0\GlobolTicket.TicketManagement.Domain.pdb
